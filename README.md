@@ -19,4 +19,4 @@ Telas:
 * Cadastro/Clientes/Ordem de Serviço/Usuários;
 * Relatórios/Serviços;
 * Ajuda/Sobre;
-* Opções/sair.
+* Opções/sair.#GitBasico
