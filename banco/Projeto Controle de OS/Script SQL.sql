@@ -58,11 +58,3 @@ C.nomecliente, fonecliente
 from tbos as O
 inner join tbclientes as C
 on (O.idclientes = C.idclientes);
-
-select * from tbusuarios;
-
-alter table tbusuarios add column perfil varchar(20) not null;
-
-update tbusuarios set perfil = 'admin' where iduser = 2;
-update tbusuarios set perfil = 'user' where iduser = 1;
-
